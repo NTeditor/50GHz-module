@@ -1,6 +1,6 @@
 {
-    "version": v1.0,
+    "version": "v1.0",
     "versionCode": 1,
-    "zipUrl": https://github.com/NTeditor/50GHz-module/releases/download/v1.0/module-v1.zip,
-    "changelog": https://raw.githubusercontent.com/NTeditor/50GHz-module/refs/heads/main/update/log.md
+    "zipUrl": "https://github.com/NTeditor/50GHz-module/releases/download/v1.0/module-v1.zip",
+    "changelog": "https://raw.githubusercontent.com/NTeditor/50GHz-module/refs/heads/main/update/log.md"
 }
