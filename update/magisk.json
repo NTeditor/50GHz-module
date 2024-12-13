@@ -1,6 +1,6 @@
 {
-    "version": "v1.2",
-    "versionCode": 2,
+    "version": "v1.0",
+    "versionCode": 1,
     "zipUrl": "https://github.com/NTeditor/90Hz-module/releases/download/v1.0/module-v1.zip",
     "changelog": "https://raw.githubusercontent.com/NTeditor/90Hz-module/refs/heads/main/update/log.md"
 }
