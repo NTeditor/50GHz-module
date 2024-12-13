@@ -1,0 +1,7 @@
+id=ghzup
+name=90GHz 
+version=1.0
+versionCode=1
+author=NTeditor [NTeditor4 на 4PDA]
+description=Установка 90GHz 
+updateJson=https://raw.githubusercontent.com/NTeditor/50GHz-module/refs/heads/main/update/magisk.json
